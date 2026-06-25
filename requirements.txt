@@ -2,14 +2,7 @@
 feedparser
 transformers>=4.45.0
 torch==2.6.0
-torchvision==0.21.0
-torchaudio==2.6.0
 pandas
-boto3
 streamlit
 plotly
-wordcloud
-seaborn
-matplotlib
 numpy
-requests
